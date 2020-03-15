@@ -95,6 +95,8 @@ The poster latex code and the generated pdf can be found inside the poster folde
 Videos:
 * [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=XXtpJxZBa2c&t=3905s)
 * [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 14 – Transformers and Self-Attention](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=322s)
+* [Andrew Ng 1](https://www.youtube.com/watch?v=SysgYptB198)
+* [Andrew Ng 2](https://www.youtube.com/watch?v=FMXUkEbjf9k)
 * [Transformer Attention is all you need](https://www.youtube.com/watch?v=z1xs9jdZnuY&t=635s)
 
 Papers, presentations and blog entries:
